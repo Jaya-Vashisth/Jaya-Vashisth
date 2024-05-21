@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaya</h1>
-<h3 align="center ">Node.js | Python | C++ | HTML5 | CSS | JavaScript</h3>
+<h3 align="center ">MERN STACK | Python | C++ | HTML5 | CSS | JavaScript</h3>
 
 - 🌱 Current Endeavors: **Node.js Development, Machine Learning, Data Science**
 - 📫 How to reach me **via vashisthjaya00@gmail.com**
