@@ -4,14 +4,8 @@
 - 🌱 Current Endeavors: **Web Developement**
 - 📫 How to reach me **via vashisthjaya00@gmail.com**
 
+- **Languages and Tools** : MERN Stack, Python, C++, HTML, CSS, Javascript, Mysql, Git, Postman 
 
 
-<h4 align="left">Languages and Tools:</h4>
-<p>MERN Stack, Python, C++, HTML, CSS, Javascript, Mysql, Git, Postman </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaya-vashisth&show_icons=true&locale=en&layout=compact" alt="jaya-vashisth" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaya-vashisth&show_icons=true&locale=en" alt="jaya-vashisth" /></p>
 
 
